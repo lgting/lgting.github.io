@@ -51,20 +51,6 @@
 - 单元测试：PHPUnit
 - 云和开放平台：腾讯视频平台/微信应用开发
       
-# 技能清单
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
-
-以下均为我熟练使用的技能
-
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP//Lavarel/CodeIgniter
-- 前端框架：Bootstrap/vue.js/HTML5/
-- 前端工具：SaSS/postMan
-- 数据库相关：MySQL/PDO/
-- 版本管理、文档和自动化部署工具：Svn/Git/npm/Composer
-- 单元测试：PHPUnit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
-      
 ---      
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
